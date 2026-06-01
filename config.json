@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorealculate",
+        "uuid": 3683574,
+        "checksum": "ffdlcj"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
